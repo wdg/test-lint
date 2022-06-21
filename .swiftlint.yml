@@ -1,0 +1,3 @@
+disabled_rules:
+- redundant_discardable_let # to enable let _ in SwiftUI
+- todo # Enable // TODO:
